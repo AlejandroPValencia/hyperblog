@@ -8,18 +8,33 @@ body
     padding: 0;
 
 }
+#cabecera #tagline
+{
+    padding: 0 0 0 lem;
+    font-weight: normal;
+    font-size: 0.8cm;
+}
+
+#cabecera
+{
+    background: blue;
+    box-shadow: 0px 2px 20px opx rgba(0,0,0,0.5);
+    color: burlywood;
+    margin: 0;
+    padding: 0.5cm;
+
+}
 
 #container
 {
     width: 70%;
-    padding: lem;
+    padding: 0;
     text-align: left;
-    border: 1px solid rgb(10, 10, 10);
+    border: 1px solid rgba(222, 227, 231, 0.5);
     margin: 0 auto;
 }
-
 #container
 {
     font-size: 20px;
-
 }
+
